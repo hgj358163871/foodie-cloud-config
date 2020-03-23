@@ -1,6 +1,6 @@
 mariadb:
   url: 'jdbc:mysql://localhost:3306/foodie-shop-dev?useUnicode=true&characterEncoding=UTF-8&autoReconnect=true&serverTimezone=UTC'
-  password: '{cipher}U2FsdGVkX1+cDczMn1NYINt8VK0I/fYc5qnm9ghNXbw='
+  password: 'root'
 userservice: 
   registration:
     disabled: true
